@@ -1,0 +1,12 @@
+_DynamsoftBarcodeReader
+_DynamsoftCaptureVisionRouter
+_DynamsoftCodeParser
+_DynamsoftCodeParserDedicator
+_DynamsoftCore
+_DynamsoftDocumentNormalizer
+_DynamsoftIdentityUtility
+_DynamsoftImageProcessing
+_DynamsoftLabelRecognizer
+_DynamsoftLicense
+_DynamsoftUtility
+dynamsoft_capture_vision_bundle

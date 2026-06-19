@@ -1,0 +1,1728 @@
+{
+ "01": [
+  {
+   "nom": "Maison de la Presse",
+   "code": "@A010",
+   "adresse": "4 rue Victor Hugo",
+   "postal": "01000",
+   "ville": "BOURG-EN-BRESSE"
+  },
+  {
+   "nom": "Café des Sports",
+   "code": "@B011",
+   "adresse": "29 rue de la Gare",
+   "postal": "01000",
+   "ville": "BOURG-EN-BRESSE"
+  }
+ ],
+ "02": [
+  {
+   "nom": "Maison de la Presse",
+   "code": "@A020",
+   "adresse": "87 place du Marché",
+   "postal": "02000",
+   "ville": "LAON"
+  },
+  {
+   "nom": "Proxi Express",
+   "code": "@B021",
+   "adresse": "5 rue de la République",
+   "postal": "02000",
+   "ville": "LAON"
+  }
+ ],
+ "03": [
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@A030",
+   "adresse": "28 avenue Foch",
+   "postal": "03000",
+   "ville": "MOULINS"
+  },
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@B031",
+   "adresse": "72 rue Pasteur",
+   "postal": "03000",
+   "ville": "MOULINS"
+  }
+ ],
+ "04": [
+  {
+   "nom": "Proxi Express",
+   "code": "@A040",
+   "adresse": "29 rue du Faubourg",
+   "postal": "04000",
+   "ville": "DIGNE-LES-BAINS"
+  },
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@B041",
+   "adresse": "1 cours Lafayette",
+   "postal": "04000",
+   "ville": "DIGNE-LES-BAINS"
+  }
+ ],
+ "05": [
+  {
+   "nom": "Proxi Express",
+   "code": "@A050",
+   "adresse": "44 rue Victor Hugo",
+   "postal": "05000",
+   "ville": "GAP"
+  },
+  {
+   "nom": "Presse Centrale",
+   "code": "@B051",
+   "adresse": "28 rue Carnot",
+   "postal": "05000",
+   "ville": "GAP"
+  }
+ ],
+ "06": [
+  {
+   "nom": "Maison de la Presse",
+   "code": "@A060",
+   "adresse": "12 rue Gambetta",
+   "postal": "06000",
+   "ville": "NICE"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B061",
+   "adresse": "46 avenue de la Libération",
+   "postal": "06000",
+   "ville": "NICE"
+  }
+ ],
+ "07": [
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@A070",
+   "adresse": "6 rue du Faubourg",
+   "postal": "07000",
+   "ville": "PRIVAS"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B071",
+   "adresse": "49 place du Marché",
+   "postal": "07000",
+   "ville": "PRIVAS"
+  }
+ ],
+ "08": [
+  {
+   "nom": "Superette Express",
+   "code": "@A080",
+   "adresse": "81 avenue de la Libération",
+   "postal": "08000",
+   "ville": "CHARLEVILLE-MÉZIÈRES"
+  },
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@B081",
+   "adresse": "9 avenue Jean Jaurès",
+   "postal": "08000",
+   "ville": "CHARLEVILLE-MÉZIÈRES"
+  }
+ ],
+ "09": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A090",
+   "adresse": "38 place du Marché",
+   "postal": "09000",
+   "ville": "FOIX"
+  },
+  {
+   "nom": "Café des Sports",
+   "code": "@B091",
+   "adresse": "13 rue Gambetta",
+   "postal": "09000",
+   "ville": "FOIX"
+  }
+ ],
+ "10": [
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@A100",
+   "adresse": "59 avenue de la Libération",
+   "postal": "10000",
+   "ville": "TROYES"
+  },
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@B101",
+   "adresse": "48 avenue de la Libération",
+   "postal": "10000",
+   "ville": "TROYES"
+  }
+ ],
+ "11": [
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@A110",
+   "adresse": "86 rue Victor Hugo",
+   "postal": "11000",
+   "ville": "CARCASSONNE"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@B111",
+   "adresse": "78 cours Lafayette",
+   "postal": "11000",
+   "ville": "CARCASSONNE"
+  }
+ ],
+ "12": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A120",
+   "adresse": "21 rue du Faubourg",
+   "postal": "12000",
+   "ville": "RODEZ"
+  },
+  {
+   "nom": "Spar Centre-Ville",
+   "code": "@B121",
+   "adresse": "35 avenue Foch",
+   "postal": "12000",
+   "ville": "RODEZ"
+  }
+ ],
+ "13": [
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@A130",
+   "adresse": "8 avenue Foch",
+   "postal": "13001",
+   "ville": "MARSEILLE"
+  },
+  {
+   "nom": "Tabac du Centre",
+   "code": "@B131",
+   "adresse": "41 rue Gambetta",
+   "postal": "13001",
+   "ville": "MARSEILLE"
+  },
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@C132",
+   "adresse": "9 rue Pasteur",
+   "postal": "13001",
+   "ville": "MARSEILLE"
+  }
+ ],
+ "14": [
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@A140",
+   "adresse": "28 boulevard Joffre",
+   "postal": "14000",
+   "ville": "CAEN"
+  },
+  {
+   "nom": "Spar Centre-Ville",
+   "code": "@B141",
+   "adresse": "83 rue du Faubourg",
+   "postal": "14000",
+   "ville": "CAEN"
+  }
+ ],
+ "15": [
+  {
+   "nom": "Presse Centrale",
+   "code": "@A150",
+   "adresse": "34 rue de la Gare",
+   "postal": "15000",
+   "ville": "AURILLAC"
+  },
+  {
+   "nom": "Café des Sports",
+   "code": "@B151",
+   "adresse": "72 rue Victor Hugo",
+   "postal": "15000",
+   "ville": "AURILLAC"
+  }
+ ],
+ "16": [
+  {
+   "nom": "Proxi Express",
+   "code": "@A160",
+   "adresse": "75 rue Gambetta",
+   "postal": "16000",
+   "ville": "ANGOULÊME"
+  },
+  {
+   "nom": "Carrefour City",
+   "code": "@B161",
+   "adresse": "29 rue de la Gare",
+   "postal": "16000",
+   "ville": "ANGOULÊME"
+  }
+ ],
+ "17": [
+  {
+   "nom": "Coop Locale",
+   "code": "@A170",
+   "adresse": "12 avenue Jean Jaurès",
+   "postal": "17000",
+   "ville": "LA ROCHELLE"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B171",
+   "adresse": "20 cours Lafayette",
+   "postal": "17000",
+   "ville": "LA ROCHELLE"
+  }
+ ],
+ "18": [
+  {
+   "nom": "Proxi Express",
+   "code": "@A180",
+   "adresse": "77 place du Marché",
+   "postal": "18000",
+   "ville": "BOURGES"
+  },
+  {
+   "nom": "Spar Centre-Ville",
+   "code": "@B181",
+   "adresse": "49 rue du Faubourg",
+   "postal": "18000",
+   "ville": "BOURGES"
+  }
+ ],
+ "19": [
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@A190",
+   "adresse": "71 rue de la République",
+   "postal": "19000",
+   "ville": "TULLE"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B191",
+   "adresse": "88 rue Victor Hugo",
+   "postal": "19000",
+   "ville": "TULLE"
+  }
+ ],
+ "21": [
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@A210",
+   "adresse": "15 place de la Mairie",
+   "postal": "21000",
+   "ville": "DIJON"
+  },
+  {
+   "nom": "Proxi Express",
+   "code": "@B211",
+   "adresse": "21 rue du Faubourg",
+   "postal": "21000",
+   "ville": "DIJON"
+  }
+ ],
+ "22": [
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@A220",
+   "adresse": "34 cours Lafayette",
+   "postal": "22000",
+   "ville": "SAINT-BRIEUC"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B221",
+   "adresse": "81 place de la Mairie",
+   "postal": "22000",
+   "ville": "SAINT-BRIEUC"
+  }
+ ],
+ "23": [
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@A230",
+   "adresse": "20 avenue de la Libération",
+   "postal": "23000",
+   "ville": "GUÉRET"
+  },
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@B231",
+   "adresse": "70 rue de la République",
+   "postal": "23000",
+   "ville": "GUÉRET"
+  }
+ ],
+ "24": [
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@A240",
+   "adresse": "63 rue de la République",
+   "postal": "24000",
+   "ville": "PÉRIGUEUX"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B241",
+   "adresse": "47 place de la Mairie",
+   "postal": "24000",
+   "ville": "PÉRIGUEUX"
+  }
+ ],
+ "25": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A250",
+   "adresse": "8 avenue Foch",
+   "postal": "25000",
+   "ville": "BESANÇON"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@B251",
+   "adresse": "11 boulevard Joffre",
+   "postal": "25000",
+   "ville": "BESANÇON"
+  }
+ ],
+ "26": [
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@A260",
+   "adresse": "69 rue de la Gare",
+   "postal": "26000",
+   "ville": "VALENCE"
+  },
+  {
+   "nom": "Presse Centrale",
+   "code": "@B261",
+   "adresse": "85 boulevard Joffre",
+   "postal": "26000",
+   "ville": "VALENCE"
+  }
+ ],
+ "27": [
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@A270",
+   "adresse": "34 place Bellecour",
+   "postal": "27000",
+   "ville": "ÉVREUX"
+  },
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@B271",
+   "adresse": "70 rue Pasteur",
+   "postal": "27000",
+   "ville": "ÉVREUX"
+  }
+ ],
+ "28": [
+  {
+   "nom": "Superette Express",
+   "code": "@A280",
+   "adresse": "52 avenue de la Libération",
+   "postal": "28000",
+   "ville": "CHARTRES"
+  },
+  {
+   "nom": "Café de la Mairie",
+   "code": "@B281",
+   "adresse": "67 rue du Faubourg",
+   "postal": "28000",
+   "ville": "CHARTRES"
+  }
+ ],
+ "29": [
+  {
+   "nom": "Maison de la Presse",
+   "code": "@A290",
+   "adresse": "32 avenue Foch",
+   "postal": "29000",
+   "ville": "QUIMPER"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@B291",
+   "adresse": "44 rue de la République",
+   "postal": "29000",
+   "ville": "QUIMPER"
+  }
+ ],
+ "2A": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A2A0",
+   "adresse": "76 avenue Foch",
+   "postal": "20000",
+   "ville": "AJACCIO"
+  },
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@B2A1",
+   "adresse": "10 avenue Jean Jaurès",
+   "postal": "20000",
+   "ville": "AJACCIO"
+  }
+ ],
+ "2B": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A2B0",
+   "adresse": "9 avenue Jean Jaurès",
+   "postal": "20200",
+   "ville": "BASTIA"
+  },
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@B2B1",
+   "adresse": "10 avenue Foch",
+   "postal": "20200",
+   "ville": "BASTIA"
+  }
+ ],
+ "30": [
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@A300",
+   "adresse": "86 boulevard Joffre",
+   "postal": "30000",
+   "ville": "NÎMES"
+  },
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@B301",
+   "adresse": "70 rue de la Gare",
+   "postal": "30000",
+   "ville": "NÎMES"
+  }
+ ],
+ "31": [
+  {
+   "nom": "Coop Locale",
+   "code": "@A310",
+   "adresse": "32 boulevard Joffre",
+   "postal": "31000",
+   "ville": "TOULOUSE"
+  },
+  {
+   "nom": "Proxi Express",
+   "code": "@B311",
+   "adresse": "25 boulevard Voltaire",
+   "postal": "31000",
+   "ville": "TOULOUSE"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@C312",
+   "adresse": "85 place Bellecour",
+   "postal": "31000",
+   "ville": "TOULOUSE"
+  }
+ ],
+ "32": [
+  {
+   "nom": "Carrefour City",
+   "code": "@A320",
+   "adresse": "55 place Bellecour",
+   "postal": "32000",
+   "ville": "AUCH"
+  },
+  {
+   "nom": "Café de la Mairie",
+   "code": "@B321",
+   "adresse": "7 boulevard Voltaire",
+   "postal": "32000",
+   "ville": "AUCH"
+  }
+ ],
+ "33": [
+  {
+   "nom": "Tabac du Centre",
+   "code": "@A330",
+   "adresse": "52 rue Carnot",
+   "postal": "33000",
+   "ville": "BORDEAUX"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B331",
+   "adresse": "32 rue Pasteur",
+   "postal": "33000",
+   "ville": "BORDEAUX"
+  },
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@C332",
+   "adresse": "69 rue du Faubourg",
+   "postal": "33000",
+   "ville": "BORDEAUX"
+  }
+ ],
+ "34": [
+  {
+   "nom": "Presse Centrale",
+   "code": "@A340",
+   "adresse": "55 cours Lafayette",
+   "postal": "34000",
+   "ville": "MONTPELLIER"
+  },
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@B341",
+   "adresse": "60 avenue Foch",
+   "postal": "34000",
+   "ville": "MONTPELLIER"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@C342",
+   "adresse": "57 boulevard Voltaire",
+   "postal": "34000",
+   "ville": "MONTPELLIER"
+  }
+ ],
+ "35": [
+  {
+   "nom": "Tabac du Centre",
+   "code": "@A350",
+   "adresse": "84 rue de la République",
+   "postal": "35000",
+   "ville": "RENNES"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@B351",
+   "adresse": "31 cours Lafayette",
+   "postal": "35000",
+   "ville": "RENNES"
+  },
+  {
+   "nom": "Proxi Express",
+   "code": "@C352",
+   "adresse": "63 boulevard Joffre",
+   "postal": "35000",
+   "ville": "RENNES"
+  }
+ ],
+ "36": [
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@A360",
+   "adresse": "52 avenue Jean Jaurès",
+   "postal": "36000",
+   "ville": "CHÂTEAUROUX"
+  },
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@B361",
+   "adresse": "49 rue de la République",
+   "postal": "36000",
+   "ville": "CHÂTEAUROUX"
+  }
+ ],
+ "37": [
+  {
+   "nom": "Spar Centre-Ville",
+   "code": "@A370",
+   "adresse": "34 rue du Faubourg",
+   "postal": "37000",
+   "ville": "TOURS"
+  },
+  {
+   "nom": "Superette Express",
+   "code": "@B371",
+   "adresse": "55 boulevard Joffre",
+   "postal": "37000",
+   "ville": "TOURS"
+  }
+ ],
+ "38": [
+  {
+   "nom": "Presse Centrale",
+   "code": "@A380",
+   "adresse": "25 place de la Mairie",
+   "postal": "38000",
+   "ville": "GRENOBLE"
+  },
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@B381",
+   "adresse": "8 avenue Jean Jaurès",
+   "postal": "38000",
+   "ville": "GRENOBLE"
+  }
+ ],
+ "39": [
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@A390",
+   "adresse": "8 avenue Jean Jaurès",
+   "postal": "39000",
+   "ville": "LONS-LE-SAUNIER"
+  },
+  {
+   "nom": "Coop Locale",
+   "code": "@B391",
+   "adresse": "65 cours Lafayette",
+   "postal": "39000",
+   "ville": "LONS-LE-SAUNIER"
+  }
+ ],
+ "40": [
+  {
+   "nom": "Tabac du Centre",
+   "code": "@A400",
+   "adresse": "66 place du Marché",
+   "postal": "40000",
+   "ville": "MONT-DE-MARSAN"
+  },
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@B401",
+   "adresse": "9 place du Marché",
+   "postal": "40000",
+   "ville": "MONT-DE-MARSAN"
+  }
+ ],
+ "41": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A410",
+   "adresse": "52 boulevard Voltaire",
+   "postal": "41000",
+   "ville": "BLOIS"
+  },
+  {
+   "nom": "Café des Sports",
+   "code": "@B411",
+   "adresse": "75 avenue Jean Jaurès",
+   "postal": "41000",
+   "ville": "BLOIS"
+  }
+ ],
+ "42": [
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@A420",
+   "adresse": "54 rue Carnot",
+   "postal": "42000",
+   "ville": "SAINT-ÉTIENNE"
+  },
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@B421",
+   "adresse": "27 rue Carnot",
+   "postal": "42000",
+   "ville": "SAINT-ÉTIENNE"
+  }
+ ],
+ "43": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A430",
+   "adresse": "34 rue Gambetta",
+   "postal": "43000",
+   "ville": "LE PUY-EN-VELAY"
+  },
+  {
+   "nom": "Presse Centrale",
+   "code": "@B431",
+   "adresse": "86 place de la Mairie",
+   "postal": "43000",
+   "ville": "LE PUY-EN-VELAY"
+  }
+ ],
+ "44": [
+  {
+   "nom": "Café de la Mairie",
+   "code": "@A440",
+   "adresse": "41 place du Marché",
+   "postal": "44000",
+   "ville": "NANTES"
+  },
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@B441",
+   "adresse": "59 boulevard Voltaire",
+   "postal": "44000",
+   "ville": "NANTES"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@C442",
+   "adresse": "69 rue Pasteur",
+   "postal": "44000",
+   "ville": "NANTES"
+  }
+ ],
+ "45": [
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@A450",
+   "adresse": "17 avenue de la Libération",
+   "postal": "45000",
+   "ville": "ORLÉANS"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@B451",
+   "adresse": "32 avenue de la Libération",
+   "postal": "45000",
+   "ville": "ORLÉANS"
+  }
+ ],
+ "46": [
+  {
+   "nom": "Superette Express",
+   "code": "@A460",
+   "adresse": "21 rue du Faubourg",
+   "postal": "46000",
+   "ville": "CAHORS"
+  },
+  {
+   "nom": "Superette Express",
+   "code": "@B461",
+   "adresse": "79 rue de la République",
+   "postal": "46000",
+   "ville": "CAHORS"
+  }
+ ],
+ "47": [
+  {
+   "nom": "Superette Express",
+   "code": "@A470",
+   "adresse": "85 boulevard Voltaire",
+   "postal": "47000",
+   "ville": "AGEN"
+  },
+  {
+   "nom": "Presse Centrale",
+   "code": "@B471",
+   "adresse": "34 boulevard Voltaire",
+   "postal": "47000",
+   "ville": "AGEN"
+  }
+ ],
+ "48": [
+  {
+   "nom": "Maison de la Presse",
+   "code": "@A480",
+   "adresse": "71 rue de la Gare",
+   "postal": "48000",
+   "ville": "MENDE"
+  },
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@B481",
+   "adresse": "37 rue Pasteur",
+   "postal": "48000",
+   "ville": "MENDE"
+  }
+ ],
+ "49": [
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@A490",
+   "adresse": "27 rue Victor Hugo",
+   "postal": "49000",
+   "ville": "ANGERS"
+  },
+  {
+   "nom": "Coop Locale",
+   "code": "@B491",
+   "adresse": "33 avenue Jean Jaurès",
+   "postal": "49000",
+   "ville": "ANGERS"
+  }
+ ],
+ "50": [
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@A500",
+   "adresse": "82 place Bellecour",
+   "postal": "50000",
+   "ville": "SAINT-LÔ"
+  },
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@B501",
+   "adresse": "6 rue de la République",
+   "postal": "50000",
+   "ville": "SAINT-LÔ"
+  }
+ ],
+ "51": [
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@A510",
+   "adresse": "17 rue Victor Hugo",
+   "postal": "51000",
+   "ville": "CHÂLONS-EN-CHAMPAGNE"
+  },
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@B511",
+   "adresse": "57 place Bellecour",
+   "postal": "51000",
+   "ville": "CHÂLONS-EN-CHAMPAGNE"
+  }
+ ],
+ "52": [
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@A520",
+   "adresse": "15 place du Marché",
+   "postal": "52000",
+   "ville": "CHAUMONT"
+  },
+  {
+   "nom": "Presse Centrale",
+   "code": "@B521",
+   "adresse": "70 avenue Jean Jaurès",
+   "postal": "52000",
+   "ville": "CHAUMONT"
+  }
+ ],
+ "53": [
+  {
+   "nom": "Carrefour City",
+   "code": "@A530",
+   "adresse": "75 rue de la Gare",
+   "postal": "53000",
+   "ville": "LAVAL"
+  },
+  {
+   "nom": "Proxi Express",
+   "code": "@B531",
+   "adresse": "17 avenue Jean Jaurès",
+   "postal": "53000",
+   "ville": "LAVAL"
+  }
+ ],
+ "54": [
+  {
+   "nom": "Superette Express",
+   "code": "@A540",
+   "adresse": "47 avenue Jean Jaurès",
+   "postal": "54000",
+   "ville": "NANCY"
+  },
+  {
+   "nom": "Carrefour City",
+   "code": "@B541",
+   "adresse": "27 avenue Foch",
+   "postal": "54000",
+   "ville": "NANCY"
+  }
+ ],
+ "55": [
+  {
+   "nom": "Maison de la Presse",
+   "code": "@A550",
+   "adresse": "46 place Bellecour",
+   "postal": "55000",
+   "ville": "BAR-LE-DUC"
+  },
+  {
+   "nom": "Presse Centrale",
+   "code": "@B551",
+   "adresse": "31 cours Lafayette",
+   "postal": "55000",
+   "ville": "BAR-LE-DUC"
+  }
+ ],
+ "56": [
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@A560",
+   "adresse": "53 rue de la République",
+   "postal": "56000",
+   "ville": "VANNES"
+  },
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@B561",
+   "adresse": "43 place Bellecour",
+   "postal": "56000",
+   "ville": "VANNES"
+  }
+ ],
+ "57": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A570",
+   "adresse": "35 cours Lafayette",
+   "postal": "57000",
+   "ville": "METZ"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B571",
+   "adresse": "49 avenue Jean Jaurès",
+   "postal": "57000",
+   "ville": "METZ"
+  }
+ ],
+ "58": [
+  {
+   "nom": "Coop Locale",
+   "code": "@A580",
+   "adresse": "29 rue Pasteur",
+   "postal": "58000",
+   "ville": "NEVERS"
+  },
+  {
+   "nom": "Café de la Mairie",
+   "code": "@B581",
+   "adresse": "45 place de la Mairie",
+   "postal": "58000",
+   "ville": "NEVERS"
+  }
+ ],
+ "59": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A590",
+   "adresse": "29 rue de la République",
+   "postal": "59000",
+   "ville": "LILLE"
+  },
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@B591",
+   "adresse": "52 rue Carnot",
+   "postal": "59000",
+   "ville": "LILLE"
+  },
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@C592",
+   "adresse": "9 rue Victor Hugo",
+   "postal": "59000",
+   "ville": "LILLE"
+  }
+ ],
+ "60": [
+  {
+   "nom": "Carrefour City",
+   "code": "@A600",
+   "adresse": "83 rue Gambetta",
+   "postal": "60000",
+   "ville": "BEAUVAIS"
+  },
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@B601",
+   "adresse": "4 boulevard Voltaire",
+   "postal": "60000",
+   "ville": "BEAUVAIS"
+  }
+ ],
+ "61": [
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@A610",
+   "adresse": "23 rue Victor Hugo",
+   "postal": "61000",
+   "ville": "ALENÇON"
+  },
+  {
+   "nom": "Tabac du Centre",
+   "code": "@B611",
+   "adresse": "14 place Bellecour",
+   "postal": "61000",
+   "ville": "ALENÇON"
+  }
+ ],
+ "62": [
+  {
+   "nom": "Carrefour City",
+   "code": "@A620",
+   "adresse": "41 place Bellecour",
+   "postal": "62000",
+   "ville": "ARRAS"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B621",
+   "adresse": "50 rue Pasteur",
+   "postal": "62000",
+   "ville": "ARRAS"
+  }
+ ],
+ "63": [
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@A630",
+   "adresse": "6 place Bellecour",
+   "postal": "63000",
+   "ville": "CLERMONT-FERRAND"
+  },
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@B631",
+   "adresse": "67 rue Pasteur",
+   "postal": "63000",
+   "ville": "CLERMONT-FERRAND"
+  }
+ ],
+ "64": [
+  {
+   "nom": "Carrefour City",
+   "code": "@A640",
+   "adresse": "56 place du Marché",
+   "postal": "64000",
+   "ville": "PAU"
+  },
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@B641",
+   "adresse": "80 rue Carnot",
+   "postal": "64000",
+   "ville": "PAU"
+  }
+ ],
+ "65": [
+  {
+   "nom": "Maison de la Presse",
+   "code": "@A650",
+   "adresse": "39 place de la Mairie",
+   "postal": "65000",
+   "ville": "TARBES"
+  },
+  {
+   "nom": "Proxi Express",
+   "code": "@B651",
+   "adresse": "42 rue Gambetta",
+   "postal": "65000",
+   "ville": "TARBES"
+  }
+ ],
+ "66": [
+  {
+   "nom": "Superette Express",
+   "code": "@A660",
+   "adresse": "71 rue de la Gare",
+   "postal": "66000",
+   "ville": "PERPIGNAN"
+  },
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@B661",
+   "adresse": "54 rue Gambetta",
+   "postal": "66000",
+   "ville": "PERPIGNAN"
+  }
+ ],
+ "67": [
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@A670",
+   "adresse": "79 place de la Mairie",
+   "postal": "67000",
+   "ville": "STRASBOURG"
+  },
+  {
+   "nom": "Spar Centre-Ville",
+   "code": "@B671",
+   "adresse": "71 rue de la République",
+   "postal": "67000",
+   "ville": "STRASBOURG"
+  },
+  {
+   "nom": "Superette Express",
+   "code": "@C672",
+   "adresse": "37 rue Pasteur",
+   "postal": "67000",
+   "ville": "STRASBOURG"
+  }
+ ],
+ "68": [
+  {
+   "nom": "Proxi Express",
+   "code": "@A680",
+   "adresse": "75 rue Carnot",
+   "postal": "68000",
+   "ville": "COLMAR"
+  },
+  {
+   "nom": "Café de la Mairie",
+   "code": "@B681",
+   "adresse": "57 rue du Faubourg",
+   "postal": "68000",
+   "ville": "COLMAR"
+  }
+ ],
+ "69": [
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@A690",
+   "adresse": "66 boulevard Joffre",
+   "postal": "69001",
+   "ville": "LYON"
+  },
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@B691",
+   "adresse": "85 place du Marché",
+   "postal": "69001",
+   "ville": "LYON"
+  },
+  {
+   "nom": "Superette Express",
+   "code": "@C692",
+   "adresse": "66 rue Carnot",
+   "postal": "69001",
+   "ville": "LYON"
+  }
+ ],
+ "70": [
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@A700",
+   "adresse": "31 place de la Mairie",
+   "postal": "70000",
+   "ville": "VESOUL"
+  },
+  {
+   "nom": "Café des Sports",
+   "code": "@B701",
+   "adresse": "26 rue de la Gare",
+   "postal": "70000",
+   "ville": "VESOUL"
+  }
+ ],
+ "71": [
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@A710",
+   "adresse": "6 avenue Foch",
+   "postal": "71000",
+   "ville": "MÂCON"
+  },
+  {
+   "nom": "Coop Locale",
+   "code": "@B711",
+   "adresse": "79 place du Marché",
+   "postal": "71000",
+   "ville": "MÂCON"
+  }
+ ],
+ "72": [
+  {
+   "nom": "Café de la Mairie",
+   "code": "@A720",
+   "adresse": "54 rue Pasteur",
+   "postal": "72000",
+   "ville": "LE MANS"
+  },
+  {
+   "nom": "Spar Centre-Ville",
+   "code": "@B721",
+   "adresse": "64 rue Gambetta",
+   "postal": "72000",
+   "ville": "LE MANS"
+  }
+ ],
+ "73": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A730",
+   "adresse": "19 rue de la République",
+   "postal": "73000",
+   "ville": "CHAMBÉRY"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B731",
+   "adresse": "55 avenue Foch",
+   "postal": "73000",
+   "ville": "CHAMBÉRY"
+  }
+ ],
+ "74": [
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@A740",
+   "adresse": "67 rue du Faubourg",
+   "postal": "74000",
+   "ville": "ANNECY"
+  },
+  {
+   "nom": "Tabac du Centre",
+   "code": "@B741",
+   "adresse": "72 avenue Foch",
+   "postal": "74000",
+   "ville": "ANNECY"
+  }
+ ],
+ "75": [
+  {
+   "nom": "Maison de la Presse",
+   "code": "@A750",
+   "adresse": "59 rue de la Gare",
+   "postal": "75001",
+   "ville": "PARIS"
+  },
+  {
+   "nom": "Café de la Mairie",
+   "code": "@B751",
+   "adresse": "86 rue Carnot",
+   "postal": "75001",
+   "ville": "PARIS"
+  },
+  {
+   "nom": "Café de la Mairie",
+   "code": "@C752",
+   "adresse": "79 place Bellecour",
+   "postal": "75001",
+   "ville": "PARIS"
+  }
+ ],
+ "76": [
+  {
+   "nom": "Café de la Mairie",
+   "code": "@A760",
+   "adresse": "21 boulevard Joffre",
+   "postal": "76000",
+   "ville": "ROUEN"
+  },
+  {
+   "nom": "Café de la Mairie",
+   "code": "@B761",
+   "adresse": "34 avenue Foch",
+   "postal": "76000",
+   "ville": "ROUEN"
+  },
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@C762",
+   "adresse": "67 boulevard Joffre",
+   "postal": "76000",
+   "ville": "ROUEN"
+  }
+ ],
+ "77": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A770",
+   "adresse": "36 rue du Faubourg",
+   "postal": "77000",
+   "ville": "MELUN"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@B771",
+   "adresse": "37 avenue Foch",
+   "postal": "77000",
+   "ville": "MELUN"
+  },
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@C772",
+   "adresse": "43 rue Carnot",
+   "postal": "77000",
+   "ville": "MELUN"
+  }
+ ],
+ "78": [
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@A780",
+   "adresse": "18 rue de la Gare",
+   "postal": "78000",
+   "ville": "VERSAILLES"
+  },
+  {
+   "nom": "Café des Sports",
+   "code": "@B781",
+   "adresse": "50 rue de la Gare",
+   "postal": "78000",
+   "ville": "VERSAILLES"
+  },
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@C782",
+   "adresse": "9 place Bellecour",
+   "postal": "78000",
+   "ville": "VERSAILLES"
+  }
+ ],
+ "79": [
+  {
+   "nom": "Proxi Express",
+   "code": "@A790",
+   "adresse": "43 rue du Faubourg",
+   "postal": "79000",
+   "ville": "NIORT"
+  },
+  {
+   "nom": "Proxi Express",
+   "code": "@B791",
+   "adresse": "8 rue Pasteur",
+   "postal": "79000",
+   "ville": "NIORT"
+  }
+ ],
+ "80": [
+  {
+   "nom": "Proxi Express",
+   "code": "@A800",
+   "adresse": "50 rue de la République",
+   "postal": "80000",
+   "ville": "AMIENS"
+  },
+  {
+   "nom": "Spar Centre-Ville",
+   "code": "@B801",
+   "adresse": "62 rue de la République",
+   "postal": "80000",
+   "ville": "AMIENS"
+  }
+ ],
+ "81": [
+  {
+   "nom": "Carrefour City",
+   "code": "@A810",
+   "adresse": "39 rue Gambetta",
+   "postal": "81000",
+   "ville": "ALBI"
+  },
+  {
+   "nom": "Proxi Express",
+   "code": "@B811",
+   "adresse": "69 avenue Foch",
+   "postal": "81000",
+   "ville": "ALBI"
+  }
+ ],
+ "82": [
+  {
+   "nom": "Coop Locale",
+   "code": "@A820",
+   "adresse": "29 rue Victor Hugo",
+   "postal": "82000",
+   "ville": "MONTAUBAN"
+  },
+  {
+   "nom": "Proxi Express",
+   "code": "@B821",
+   "adresse": "63 rue de la République",
+   "postal": "82000",
+   "ville": "MONTAUBAN"
+  }
+ ],
+ "83": [
+  {
+   "nom": "Spar Centre-Ville",
+   "code": "@A830",
+   "adresse": "44 rue Gambetta",
+   "postal": "83000",
+   "ville": "TOULON"
+  },
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@B831",
+   "adresse": "60 rue de la Gare",
+   "postal": "83000",
+   "ville": "TOULON"
+  }
+ ],
+ "84": [
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@A840",
+   "adresse": "51 rue de la République",
+   "postal": "84000",
+   "ville": "AVIGNON"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@B841",
+   "adresse": "83 place Bellecour",
+   "postal": "84000",
+   "ville": "AVIGNON"
+  }
+ ],
+ "85": [
+  {
+   "nom": "Presse Centrale",
+   "code": "@A850",
+   "adresse": "60 cours Lafayette",
+   "postal": "85000",
+   "ville": "LA ROCHE-SUR-YON"
+  },
+  {
+   "nom": "Tabac du Centre",
+   "code": "@B851",
+   "adresse": "34 rue Gambetta",
+   "postal": "85000",
+   "ville": "LA ROCHE-SUR-YON"
+  }
+ ],
+ "86": [
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@A860",
+   "adresse": "28 rue du Faubourg",
+   "postal": "86000",
+   "ville": "POITIERS"
+  },
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@B861",
+   "adresse": "44 rue Gambetta",
+   "postal": "86000",
+   "ville": "POITIERS"
+  }
+ ],
+ "87": [
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@A870",
+   "adresse": "54 rue Victor Hugo",
+   "postal": "87000",
+   "ville": "LIMOGES"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@B871",
+   "adresse": "61 rue de la République",
+   "postal": "87000",
+   "ville": "LIMOGES"
+  }
+ ],
+ "88": [
+  {
+   "nom": "Tabac du Centre",
+   "code": "@A880",
+   "adresse": "45 avenue Foch",
+   "postal": "88000",
+   "ville": "ÉPINAL"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@B881",
+   "adresse": "84 avenue Jean Jaurès",
+   "postal": "88000",
+   "ville": "ÉPINAL"
+  }
+ ],
+ "89": [
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@A890",
+   "adresse": "32 rue Pasteur",
+   "postal": "89000",
+   "ville": "AUXERRE"
+  },
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@B891",
+   "adresse": "80 rue de la Gare",
+   "postal": "89000",
+   "ville": "AUXERRE"
+  }
+ ],
+ "90": [
+  {
+   "nom": "Café des Sports",
+   "code": "@A900",
+   "adresse": "17 boulevard Joffre",
+   "postal": "90000",
+   "ville": "BELFORT"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B901",
+   "adresse": "73 rue Pasteur",
+   "postal": "90000",
+   "ville": "BELFORT"
+  }
+ ],
+ "91": [
+  {
+   "nom": "Café de la Mairie",
+   "code": "@A910",
+   "adresse": "33 avenue de la Libération",
+   "postal": "91000",
+   "ville": "ÉVRY"
+  },
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@B911",
+   "adresse": "78 boulevard Voltaire",
+   "postal": "91000",
+   "ville": "ÉVRY"
+  },
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@C912",
+   "adresse": "40 boulevard Voltaire",
+   "postal": "91000",
+   "ville": "ÉVRY"
+  }
+ ],
+ "92": [
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@A920",
+   "adresse": "40 rue Gambetta",
+   "postal": "92000",
+   "ville": "NANTERRE"
+  },
+  {
+   "nom": "Spar Centre-Ville",
+   "code": "@B921",
+   "adresse": "26 place du Marché",
+   "postal": "92000",
+   "ville": "NANTERRE"
+  },
+  {
+   "nom": "Café des Sports",
+   "code": "@C922",
+   "adresse": "14 place de la Mairie",
+   "postal": "92000",
+   "ville": "NANTERRE"
+  }
+ ],
+ "93": [
+  {
+   "nom": "Maison de la Presse",
+   "code": "@A930",
+   "adresse": "73 avenue Jean Jaurès",
+   "postal": "93000",
+   "ville": "BOBIGNY"
+  },
+  {
+   "nom": "Carrefour City",
+   "code": "@B931",
+   "adresse": "69 place Bellecour",
+   "postal": "93000",
+   "ville": "BOBIGNY"
+  },
+  {
+   "nom": "Carrefour City",
+   "code": "@C932",
+   "adresse": "9 rue Carnot",
+   "postal": "93000",
+   "ville": "BOBIGNY"
+  }
+ ],
+ "94": [
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@A940",
+   "adresse": "54 boulevard Joffre",
+   "postal": "94000",
+   "ville": "CRÉTEIL"
+  },
+  {
+   "nom": "Maison de la Presse",
+   "code": "@B941",
+   "adresse": "56 avenue de la Libération",
+   "postal": "94000",
+   "ville": "CRÉTEIL"
+  },
+  {
+   "nom": "Café de la Mairie",
+   "code": "@C942",
+   "adresse": "20 place Bellecour",
+   "postal": "94000",
+   "ville": "CRÉTEIL"
+  }
+ ],
+ "95": [
+  {
+   "nom": "Au Petit Bonheur",
+   "code": "@A950",
+   "adresse": "67 rue Victor Hugo",
+   "postal": "95000",
+   "ville": "CERGY"
+  },
+  {
+   "nom": "Coop Locale",
+   "code": "@B951",
+   "adresse": "60 place Bellecour",
+   "postal": "95000",
+   "ville": "CERGY"
+  },
+  {
+   "nom": "Bar-Tabac Le Commerce",
+   "code": "@C952",
+   "adresse": "42 avenue Foch",
+   "postal": "95000",
+   "ville": "CERGY"
+  }
+ ],
+ "971": [
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@A710",
+   "adresse": "36 rue du Faubourg",
+   "postal": "97110",
+   "ville": "POINTE-À-PITRE"
+  },
+  {
+   "nom": "Café des Sports",
+   "code": "@B711",
+   "adresse": "60 rue Gambetta",
+   "postal": "97110",
+   "ville": "POINTE-À-PITRE"
+  }
+ ],
+ "972": [
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@A720",
+   "adresse": "4 boulevard Joffre",
+   "postal": "97200",
+   "ville": "FORT-DE-FRANCE"
+  },
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@B721",
+   "adresse": "24 boulevard Joffre",
+   "postal": "97200",
+   "ville": "FORT-DE-FRANCE"
+  }
+ ],
+ "973": [
+  {
+   "nom": "Boulangerie du Marché",
+   "code": "@A730",
+   "adresse": "46 rue Victor Hugo",
+   "postal": "97300",
+   "ville": "CAYENNE"
+  },
+  {
+   "nom": "Le Relais 8 à 8",
+   "code": "@B731",
+   "adresse": "36 rue Victor Hugo",
+   "postal": "97300",
+   "ville": "CAYENNE"
+  }
+ ],
+ "974": [
+  {
+   "nom": "Tabac de la Gare",
+   "code": "@A740",
+   "adresse": "67 rue Pasteur",
+   "postal": "97400",
+   "ville": "SAINT-DENIS"
+  },
+  {
+   "nom": "Tabac Le Carillon",
+   "code": "@B741",
+   "adresse": "31 place Bellecour",
+   "postal": "97400",
+   "ville": "SAINT-DENIS"
+  }
+ ]
+}

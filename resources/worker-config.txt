@@ -1,0 +1,4 @@
+# Local release worker config - DO NOT COMMIT
+# Temporary public gateway URL. Users enter their own license in the app.
+https://gateway.lepifhub.uk
+PASTE-LICENSE-IN-APP

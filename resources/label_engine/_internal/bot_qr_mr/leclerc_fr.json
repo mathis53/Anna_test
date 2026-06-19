@@ -1,0 +1,818 @@
+{
+ "01": [
+  {
+   "name": "E.LECLERC BOURG-EN-BRESSE",
+   "address": "83 BOULEVARD INDUSTRIEL",
+   "postal": "01000",
+   "city": "BOURG-EN-BRESSE"
+  }
+ ],
+ "02": [
+  {
+   "name": "E.LECLERC SOISSONS",
+   "address": "102 ZA LES PORTES",
+   "postal": "02200",
+   "city": "SOISSONS"
+  }
+ ],
+ "03": [
+  {
+   "name": "E.LECLERC MOULINS",
+   "address": "13 ROUTE DE PARIS",
+   "postal": "03000",
+   "city": "MOULINS"
+  }
+ ],
+ "04": [
+  {
+   "name": "E.LECLERC MANOSQUE",
+   "address": "211 ROUTE NATIONALE",
+   "postal": "04100",
+   "city": "MANOSQUE"
+  }
+ ],
+ "05": [
+  {
+   "name": "E.LECLERC GAP",
+   "address": "25 ZAC DU PARC",
+   "postal": "05000",
+   "city": "GAP"
+  }
+ ],
+ "06": [
+  {
+   "name": "E.LECLERC ANTIBES",
+   "address": "150 AVENUE CHARLES DE GAULLE",
+   "postal": "06600",
+   "city": "ANTIBES"
+  }
+ ],
+ "07": [
+  {
+   "name": "E.LECLERC AUBENAS",
+   "address": "233 ROUTE NATIONALE",
+   "postal": "07200",
+   "city": "AUBENAS"
+  }
+ ],
+ "08": [
+  {
+   "name": "E.LECLERC CHARLEVILLE-MÉZIÈRES",
+   "address": "55 AVENUE CHARLES DE GAULLE",
+   "postal": "08000",
+   "city": "CHARLEVILLE-MÉZIÈRES"
+  }
+ ],
+ "09": [
+  {
+   "name": "E.LECLERC PAMIERS",
+   "address": "23 AVENUE FOCH",
+   "postal": "09100",
+   "city": "PAMIERS"
+  }
+ ],
+ "10": [
+  {
+   "name": "E.LECLERC TROYES",
+   "address": "108 ROUTE DE PARIS",
+   "postal": "10000",
+   "city": "TROYES"
+  }
+ ],
+ "11": [
+  {
+   "name": "E.LECLERC NARBONNE",
+   "address": "62 ROUTE DE PARIS",
+   "postal": "11100",
+   "city": "NARBONNE"
+  }
+ ],
+ "12": [
+  {
+   "name": "E.LECLERC RODEZ",
+   "address": "142 AVENUE FOCH",
+   "postal": "12000",
+   "city": "RODEZ"
+  }
+ ],
+ "13": [
+  {
+   "name": "E.LECLERC VITROLLES",
+   "address": "16 AVENUE JEAN MOULIN",
+   "postal": "13127",
+   "city": "VITROLLES"
+  },
+  {
+   "name": "E.LECLERC VITROLLES",
+   "address": "32 AVENUE DE L'EUROPE",
+   "postal": "13127",
+   "city": "VITROLLES"
+  }
+ ],
+ "14": [
+  {
+   "name": "E.LECLERC CAEN",
+   "address": "162 ZA LES PORTES",
+   "postal": "14000",
+   "city": "CAEN"
+  }
+ ],
+ "15": [
+  {
+   "name": "E.LECLERC AURILLAC",
+   "address": "150 AVENUE CHARLES DE GAULLE",
+   "postal": "15000",
+   "city": "AURILLAC"
+  }
+ ],
+ "16": [
+  {
+   "name": "E.LECLERC ANGOULÊME",
+   "address": "148 AVENUE JEAN MOULIN",
+   "postal": "16000",
+   "city": "ANGOULÊME"
+  }
+ ],
+ "17": [
+  {
+   "name": "E.LECLERC ROYAN",
+   "address": "102 AVENUE CHARLES DE GAULLE",
+   "postal": "17200",
+   "city": "ROYAN"
+  }
+ ],
+ "18": [
+  {
+   "name": "E.LECLERC BOURGES",
+   "address": "250 AVENUE DE L'EUROPE",
+   "postal": "18000",
+   "city": "BOURGES"
+  }
+ ],
+ "19": [
+  {
+   "name": "E.LECLERC BRIVE-LA-GAILLARDE",
+   "address": "12 ROUTE NATIONALE",
+   "postal": "19100",
+   "city": "BRIVE-LA-GAILLARDE"
+  }
+ ],
+ "21": [
+  {
+   "name": "E.LECLERC DIJON",
+   "address": "220 BOULEVARD INDUSTRIEL",
+   "postal": "21000",
+   "city": "DIJON"
+  }
+ ],
+ "22": [
+  {
+   "name": "E.LECLERC SAINT-BRIEUC",
+   "address": "75 AVENUE FOCH",
+   "postal": "22000",
+   "city": "SAINT-BRIEUC"
+  }
+ ],
+ "23": [
+  {
+   "name": "E.LECLERC GUÉRET",
+   "address": "37 ROUTE NATIONALE",
+   "postal": "23000",
+   "city": "GUÉRET"
+  }
+ ],
+ "24": [
+  {
+   "name": "E.LECLERC PÉRIGUEUX",
+   "address": "31 AVENUE JEAN MOULIN",
+   "postal": "24000",
+   "city": "PÉRIGUEUX"
+  }
+ ],
+ "25": [
+  {
+   "name": "E.LECLERC BESANÇON",
+   "address": "79 ROUTE NATIONALE",
+   "postal": "25000",
+   "city": "BESANÇON"
+  }
+ ],
+ "26": [
+  {
+   "name": "E.LECLERC VALENCE",
+   "address": "209 ZA LES PORTES",
+   "postal": "26000",
+   "city": "VALENCE"
+  }
+ ],
+ "27": [
+  {
+   "name": "E.LECLERC ÉVREUX",
+   "address": "47 ROUTE DE PARIS",
+   "postal": "27000",
+   "city": "ÉVREUX"
+  }
+ ],
+ "28": [
+  {
+   "name": "E.LECLERC CHARTRES",
+   "address": "149 AVENUE JEAN MOULIN",
+   "postal": "28000",
+   "city": "CHARTRES"
+  }
+ ],
+ "29": [
+  {
+   "name": "E.LECLERC QUIMPER",
+   "address": "164 AVENUE DE L'EUROPE",
+   "postal": "29000",
+   "city": "QUIMPER"
+  }
+ ],
+ "2A": [
+  {
+   "name": "E.LECLERC AJACCIO",
+   "address": "96 ROUTE DE PARIS",
+   "postal": "20000",
+   "city": "AJACCIO"
+  }
+ ],
+ "2B": [
+  {
+   "name": "E.LECLERC BASTIA",
+   "address": "141 ROUTE DE BORDEAUX",
+   "postal": "20200",
+   "city": "BASTIA"
+  }
+ ],
+ "30": [
+  {
+   "name": "E.LECLERC NÎMES",
+   "address": "17 AVENUE JEAN MOULIN",
+   "postal": "30000",
+   "city": "NÎMES"
+  }
+ ],
+ "31": [
+  {
+   "name": "E.LECLERC BLAGNAC",
+   "address": "16 AVENUE JEAN MOULIN",
+   "postal": "31700",
+   "city": "BLAGNAC"
+  },
+  {
+   "name": "E.LECLERC BLAGNAC",
+   "address": "53 BOULEVARD DE LA RÉPUBLIQUE",
+   "postal": "31700",
+   "city": "BLAGNAC"
+  }
+ ],
+ "32": [
+  {
+   "name": "E.LECLERC AUCH",
+   "address": "175 ROUTE NATIONALE",
+   "postal": "32000",
+   "city": "AUCH"
+  }
+ ],
+ "33": [
+  {
+   "name": "E.LECLERC MÉRIGNAC",
+   "address": "110 AVENUE SALVADOR ALLENDE",
+   "postal": "33700",
+   "city": "MÉRIGNAC"
+  },
+  {
+   "name": "E.LECLERC MÉRIGNAC",
+   "address": "81 BOULEVARD DE LA RÉPUBLIQUE",
+   "postal": "33700",
+   "city": "MÉRIGNAC"
+  }
+ ],
+ "34": [
+  {
+   "name": "E.LECLERC LATTES",
+   "address": "150 BOULEVARD DE LA RÉPUBLIQUE",
+   "postal": "34970",
+   "city": "LATTES"
+  }
+ ],
+ "35": [
+  {
+   "name": "E.LECLERC CESSON-SÉVIGNÉ",
+   "address": "93 ROUTE DE LYON",
+   "postal": "35510",
+   "city": "CESSON-SÉVIGNÉ"
+  }
+ ],
+ "36": [
+  {
+   "name": "E.LECLERC CHÂTEAUROUX",
+   "address": "64 AVENUE SALVADOR ALLENDE",
+   "postal": "36000",
+   "city": "CHÂTEAUROUX"
+  }
+ ],
+ "37": [
+  {
+   "name": "E.LECLERC TOURS",
+   "address": "47 ROUTE DE BORDEAUX",
+   "postal": "37000",
+   "city": "TOURS"
+  }
+ ],
+ "38": [
+  {
+   "name": "E.LECLERC ÉCHIROLLES",
+   "address": "200 AVENUE DE L'EUROPE",
+   "postal": "38130",
+   "city": "ÉCHIROLLES"
+  }
+ ],
+ "39": [
+  {
+   "name": "E.LECLERC LONS-LE-SAUNIER",
+   "address": "21 AVENUE JEAN MOULIN",
+   "postal": "39000",
+   "city": "LONS-LE-SAUNIER"
+  }
+ ],
+ "40": [
+  {
+   "name": "E.LECLERC MONT-DE-MARSAN",
+   "address": "77 ROUTE NATIONALE",
+   "postal": "40000",
+   "city": "MONT-DE-MARSAN"
+  }
+ ],
+ "41": [
+  {
+   "name": "E.LECLERC BLOIS",
+   "address": "127 ZAC DU PARC",
+   "postal": "41000",
+   "city": "BLOIS"
+  }
+ ],
+ "42": [
+  {
+   "name": "E.LECLERC SAINT-ÉTIENNE",
+   "address": "187 BOULEVARD DE LA RÉPUBLIQUE",
+   "postal": "42000",
+   "city": "SAINT-ÉTIENNE"
+  }
+ ],
+ "43": [
+  {
+   "name": "E.LECLERC LE PUY-EN-VELAY",
+   "address": "74 AVENUE JEAN MOULIN",
+   "postal": "43000",
+   "city": "LE PUY-EN-VELAY"
+  }
+ ],
+ "44": [
+  {
+   "name": "E.LECLERC SAINT-HERBLAIN",
+   "address": "19 ROUTE DE PARIS",
+   "postal": "44800",
+   "city": "SAINT-HERBLAIN"
+  },
+  {
+   "name": "E.LECLERC SAINT-HERBLAIN",
+   "address": "132 AVENUE FOCH",
+   "postal": "44800",
+   "city": "SAINT-HERBLAIN"
+  }
+ ],
+ "45": [
+  {
+   "name": "E.LECLERC OLIVET",
+   "address": "43 AVENUE SALVADOR ALLENDE",
+   "postal": "45160",
+   "city": "OLIVET"
+  }
+ ],
+ "46": [
+  {
+   "name": "E.LECLERC CAHORS",
+   "address": "88 BOULEVARD INDUSTRIEL",
+   "postal": "46000",
+   "city": "CAHORS"
+  }
+ ],
+ "47": [
+  {
+   "name": "E.LECLERC AGEN",
+   "address": "239 BOULEVARD DE LA RÉPUBLIQUE",
+   "postal": "47000",
+   "city": "AGEN"
+  }
+ ],
+ "48": [
+  {
+   "name": "E.LECLERC MENDE",
+   "address": "108 AVENUE CHARLES DE GAULLE",
+   "postal": "48000",
+   "city": "MENDE"
+  }
+ ],
+ "49": [
+  {
+   "name": "E.LECLERC ANGERS",
+   "address": "247 ZA LES PORTES",
+   "postal": "49000",
+   "city": "ANGERS"
+  }
+ ],
+ "50": [
+  {
+   "name": "E.LECLERC SAINT-LÔ",
+   "address": "20 AVENUE SALVADOR ALLENDE",
+   "postal": "50000",
+   "city": "SAINT-LÔ"
+  }
+ ],
+ "51": [
+  {
+   "name": "E.LECLERC REIMS",
+   "address": "143 AVENUE JEAN MOULIN",
+   "postal": "51100",
+   "city": "REIMS"
+  }
+ ],
+ "52": [
+  {
+   "name": "E.LECLERC CHAUMONT",
+   "address": "203 ZAC DU PARC",
+   "postal": "52000",
+   "city": "CHAUMONT"
+  }
+ ],
+ "53": [
+  {
+   "name": "E.LECLERC LAVAL",
+   "address": "88 ROUTE DE BORDEAUX",
+   "postal": "53000",
+   "city": "LAVAL"
+  }
+ ],
+ "54": [
+  {
+   "name": "E.LECLERC VANDŒUVRE-LÈS-NANCY",
+   "address": "90 AVENUE JEAN MOULIN",
+   "postal": "54500",
+   "city": "VANDŒUVRE-LÈS-NANCY"
+  }
+ ],
+ "55": [
+  {
+   "name": "E.LECLERC BAR-LE-DUC",
+   "address": "128 AVENUE JEAN MOULIN",
+   "postal": "55000",
+   "city": "BAR-LE-DUC"
+  }
+ ],
+ "56": [
+  {
+   "name": "E.LECLERC VANNES",
+   "address": "205 BOULEVARD DE LA RÉPUBLIQUE",
+   "postal": "56000",
+   "city": "VANNES"
+  }
+ ],
+ "57": [
+  {
+   "name": "E.LECLERC METZ",
+   "address": "18 ROUTE DE PARIS",
+   "postal": "57000",
+   "city": "METZ"
+  }
+ ],
+ "58": [
+  {
+   "name": "E.LECLERC NEVERS",
+   "address": "242 ROUTE DE LYON",
+   "postal": "58000",
+   "city": "NEVERS"
+  }
+ ],
+ "59": [
+  {
+   "name": "E.LECLERC LOMME",
+   "address": "122 ROUTE DE BORDEAUX",
+   "postal": "59160",
+   "city": "LOMME"
+  },
+  {
+   "name": "E.LECLERC LOMME",
+   "address": "171 ROUTE DE PARIS",
+   "postal": "59160",
+   "city": "LOMME"
+  }
+ ],
+ "60": [
+  {
+   "name": "E.LECLERC BEAUVAIS",
+   "address": "16 ROUTE DE BORDEAUX",
+   "postal": "60000",
+   "city": "BEAUVAIS"
+  }
+ ],
+ "61": [
+  {
+   "name": "E.LECLERC ALENÇON",
+   "address": "180 ROUTE DE LYON",
+   "postal": "61000",
+   "city": "ALENÇON"
+  }
+ ],
+ "62": [
+  {
+   "name": "E.LECLERC ARRAS",
+   "address": "166 AVENUE JEAN MOULIN",
+   "postal": "62000",
+   "city": "ARRAS"
+  }
+ ],
+ "63": [
+  {
+   "name": "E.LECLERC CLERMONT-FERRAND",
+   "address": "175 BOULEVARD DE LA RÉPUBLIQUE",
+   "postal": "63000",
+   "city": "CLERMONT-FERRAND"
+  }
+ ],
+ "64": [
+  {
+   "name": "E.LECLERC PAU",
+   "address": "73 ROUTE DE BORDEAUX",
+   "postal": "64000",
+   "city": "PAU"
+  }
+ ],
+ "65": [
+  {
+   "name": "E.LECLERC TARBES",
+   "address": "99 ZA LES PORTES",
+   "postal": "65000",
+   "city": "TARBES"
+  }
+ ],
+ "66": [
+  {
+   "name": "E.LECLERC PERPIGNAN",
+   "address": "89 AVENUE CHARLES DE GAULLE",
+   "postal": "66000",
+   "city": "PERPIGNAN"
+  }
+ ],
+ "67": [
+  {
+   "name": "E.LECLERC STRASBOURG",
+   "address": "241 BOULEVARD DE LA RÉPUBLIQUE",
+   "postal": "67000",
+   "city": "STRASBOURG"
+  },
+  {
+   "name": "E.LECLERC STRASBOURG",
+   "address": "91 BOULEVARD INDUSTRIEL",
+   "postal": "67000",
+   "city": "STRASBOURG"
+  }
+ ],
+ "68": [
+  {
+   "name": "E.LECLERC MULHOUSE",
+   "address": "157 ROUTE DE PARIS",
+   "postal": "68100",
+   "city": "MULHOUSE"
+  }
+ ],
+ "69": [
+  {
+   "name": "E.LECLERC SAINT-PRIEST",
+   "address": "127 AVENUE CHARLES DE GAULLE",
+   "postal": "69800",
+   "city": "SAINT-PRIEST"
+  },
+  {
+   "name": "E.LECLERC SAINT-PRIEST",
+   "address": "56 AVENUE SALVADOR ALLENDE",
+   "postal": "69800",
+   "city": "SAINT-PRIEST"
+  }
+ ],
+ "70": [
+  {
+   "name": "E.LECLERC VESOUL",
+   "address": "74 BOULEVARD INDUSTRIEL",
+   "postal": "70000",
+   "city": "VESOUL"
+  }
+ ],
+ "71": [
+  {
+   "name": "E.LECLERC MÂCON",
+   "address": "190 AVENUE DE L'EUROPE",
+   "postal": "71000",
+   "city": "MÂCON"
+  }
+ ],
+ "72": [
+  {
+   "name": "E.LECLERC LE MANS",
+   "address": "102 AVENUE FOCH",
+   "postal": "72000",
+   "city": "LE MANS"
+  }
+ ],
+ "73": [
+  {
+   "name": "E.LECLERC CHAMBÉRY",
+   "address": "235 BOULEVARD DE LA RÉPUBLIQUE",
+   "postal": "73000",
+   "city": "CHAMBÉRY"
+  }
+ ],
+ "74": [
+  {
+   "name": "E.LECLERC ANNECY",
+   "address": "21 BOULEVARD INDUSTRIEL",
+   "postal": "74000",
+   "city": "ANNECY"
+  }
+ ],
+ "75": [
+  {
+   "name": "E.LECLERC PARIS",
+   "address": "115 AVENUE FOCH",
+   "postal": "75019",
+   "city": "PARIS"
+  },
+  {
+   "name": "E.LECLERC PARIS",
+   "address": "141 ROUTE DE LYON",
+   "postal": "75019",
+   "city": "PARIS"
+  }
+ ],
+ "76": [
+  {
+   "name": "E.LECLERC ROUEN",
+   "address": "227 BOULEVARD INDUSTRIEL",
+   "postal": "76000",
+   "city": "ROUEN"
+  }
+ ],
+ "77": [
+  {
+   "name": "E.LECLERC MELUN",
+   "address": "210 AVENUE FOCH",
+   "postal": "77000",
+   "city": "MELUN"
+  }
+ ],
+ "78": [
+  {
+   "name": "E.LECLERC PLAISIR",
+   "address": "222 ROUTE NATIONALE",
+   "postal": "78370",
+   "city": "PLAISIR"
+  }
+ ],
+ "79": [
+  {
+   "name": "E.LECLERC NIORT",
+   "address": "72 ROUTE DE BORDEAUX",
+   "postal": "79000",
+   "city": "NIORT"
+  }
+ ],
+ "80": [
+  {
+   "name": "E.LECLERC AMIENS",
+   "address": "107 ZAC DU PARC",
+   "postal": "80000",
+   "city": "AMIENS"
+  }
+ ],
+ "81": [
+  {
+   "name": "E.LECLERC ALBI",
+   "address": "175 AVENUE FOCH",
+   "postal": "81000",
+   "city": "ALBI"
+  }
+ ],
+ "82": [
+  {
+   "name": "E.LECLERC MONTAUBAN",
+   "address": "246 AVENUE DE L'EUROPE",
+   "postal": "82000",
+   "city": "MONTAUBAN"
+  }
+ ],
+ "83": [
+  {
+   "name": "E.LECLERC TOULON",
+   "address": "39 ROUTE DE PARIS",
+   "postal": "83000",
+   "city": "TOULON"
+  }
+ ],
+ "84": [
+  {
+   "name": "E.LECLERC AVIGNON",
+   "address": "46 BOULEVARD INDUSTRIEL",
+   "postal": "84000",
+   "city": "AVIGNON"
+  }
+ ],
+ "85": [
+  {
+   "name": "E.LECLERC LA ROCHE-SUR-YON",
+   "address": "60 ZA LES PORTES",
+   "postal": "85000",
+   "city": "LA ROCHE-SUR-YON"
+  }
+ ],
+ "86": [
+  {
+   "name": "E.LECLERC POITIERS",
+   "address": "60 AVENUE CHARLES DE GAULLE",
+   "postal": "86000",
+   "city": "POITIERS"
+  }
+ ],
+ "87": [
+  {
+   "name": "E.LECLERC LIMOGES",
+   "address": "125 AVENUE JEAN MOULIN",
+   "postal": "87000",
+   "city": "LIMOGES"
+  }
+ ],
+ "88": [
+  {
+   "name": "E.LECLERC ÉPINAL",
+   "address": "47 ROUTE DE LYON",
+   "postal": "88000",
+   "city": "ÉPINAL"
+  }
+ ],
+ "89": [
+  {
+   "name": "E.LECLERC AUXERRE",
+   "address": "73 AVENUE CHARLES DE GAULLE",
+   "postal": "89000",
+   "city": "AUXERRE"
+  }
+ ],
+ "90": [
+  {
+   "name": "E.LECLERC BELFORT",
+   "address": "38 AVENUE FOCH",
+   "postal": "90000",
+   "city": "BELFORT"
+  }
+ ],
+ "91": [
+  {
+   "name": "E.LECLERC SAINTE-GENEVIÈVE-DES-BOIS",
+   "address": "137 ZAC DU PARC",
+   "postal": "91700",
+   "city": "SAINTE-GENEVIÈVE-DES-BOIS"
+  }
+ ],
+ "92": [
+  {
+   "name": "E.LECLERC LEVALLOIS-PERRET",
+   "address": "157 AVENUE JEAN MOULIN",
+   "postal": "92300",
+   "city": "LEVALLOIS-PERRET"
+  }
+ ],
+ "93": [
+  {
+   "name": "E.LECLERC ROSNY-SOUS-BOIS",
+   "address": "82 BOULEVARD INDUSTRIEL",
+   "postal": "93110",
+   "city": "ROSNY-SOUS-BOIS"
+  }
+ ],
+ "94": [
+  {
+   "name": "E.LECLERC IVRY-SUR-SEINE",
+   "address": "177 ROUTE NATIONALE",
+   "postal": "94200",
+   "city": "IVRY-SUR-SEINE"
+  }
+ ],
+ "95": [
+  {
+   "name": "E.LECLERC CERGY",
+   "address": "244 AVENUE JEAN MOULIN",
+   "postal": "95000",
+   "city": "CERGY"
+  }
+ ]
+}
